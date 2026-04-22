@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Jose
+
+Submitted: 2026-04-22T14:26:09.957+02:00
+
+Description:
+User is unable to connect to the VPN, receiving a 'No gateway available' error.
