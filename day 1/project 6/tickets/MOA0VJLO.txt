@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Jose
+
+Submitted: 2026-04-22T14:22:09.898+02:00
+
+Description:
+User is unable to connect to the VPN from home and has requested to speak with a human support agent.
