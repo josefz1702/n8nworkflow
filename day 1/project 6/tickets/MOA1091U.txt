@@ -1,8 +1,13 @@
-Prio: Urgent
-
-Name: Jose
+User Name: Jose
 
 Submitted: 2026-04-22T14:26:09.957+02:00
 
 Description:
 User is unable to connect to the VPN, receiving a 'No gateway available' error.
+
+Status: Closed
+Prio: Urgent
+
+Activity Log:
+2026-04-22T14:26:09.957+02:00 - Ticket created (Urgent).
+2026-04-22T15:00:00.000+02:00 - User reported: "My VPN now is fine, close the ticket." Ticket closed by user.
