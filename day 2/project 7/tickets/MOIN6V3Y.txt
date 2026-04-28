@@ -1,0 +1,1 @@
+User Name: Jose  Submitted: 2026-04-28T15:08:48.766+02:00  Description: User Jose reports VPN is not working. User requested to speak with a human technician after initial troubleshooting.  Status: Open Prio: Urgent
